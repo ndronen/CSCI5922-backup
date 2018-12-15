@@ -12,7 +12,6 @@ permalink: schedule/feed-forward-networks.html
         * Boston, Diabetes
     * Classification
         * Iris, Digits
-    * [Scikit-learn loaders](https://scikit-learn.org/stable/datasets/index.html)
 * The Perceptron
     * The model -- forward pass
     * The learning algorithm -- backward pass
