@@ -5,6 +5,8 @@ permalink: schedule/feed-forward-networks.html
 
 ## Feed-Forward Networks (3 days)
 
+* Readings
+    * [_Deep Learning_ Chapter 6, Deep Feed-Forward Networks](http://www.deeplearningbook.org/contents/mlp.html)
 * Simple Tasks and Datasets
     * Regression
         * Boston, Diabetes
@@ -35,8 +37,3 @@ permalink: schedule/feed-forward-networks.html
         * Why are non-linearities necessary?
         * t-SNE examples
         * Depth and its diminishing returns
-* Resources
-    * Gradient of bias
-        * https://www.google.com/search?q=gradient+of+bias
-        * https://datascience.stackexchange.com/questions/20139/gradients-for-bias-terms-in-backpropagation
-
