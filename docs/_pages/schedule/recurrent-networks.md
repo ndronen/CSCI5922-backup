@@ -5,6 +5,8 @@ permalink: schedule/recurrent-networks.html
 
 ## Recurrent Networks (3 days)
 
+* Readings
+    * [_Deep Learning_ Chapter 10, Sequence Modeling: Recurrent and Recursive Nets, Sections 10.1, 10.2.1, 10.2.2, 10.2.4, 10.3-10.5, 10.7, 10.10, 10.11](http://www.deeplearningbook.org/contents/optimization.html)
 * Simple Tasks and Datasets
     * Time Series, Sine Wave
     * Language Modeling, Embedded Reber Grammar
@@ -22,7 +24,3 @@ permalink: schedule/recurrent-networks.html
         * https://www.youtube.com/watch?v=oue-qbtKdiE
         * https://www.quora.com/What-is-Noise-Contrastive-estimation-NCE
     * Sequence-to-sequence
-    * Readings
-* Resources
-    * https://stats.stackexchange.com/questions/154549/what-is-a-good-way-to-test-a-simple-recurrent-neural-network
-* Homework
