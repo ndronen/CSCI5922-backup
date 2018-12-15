@@ -6,7 +6,7 @@ permalink: schedule/regularization.html
 ## Regularization (2 days)
 
 * Readings
-    * [_Deep Learning_ Chapter 7, Regularizaion for Deep Learning, Sections 7.0-7.5, 7.8, 7.12, 7.13](http://www.deeplearningbook.org/contents/regularization.html)
+    * [_Deep Learning_ Chapter 7, Regularizaion for Deep Learning, Sections 7.1-7.5, 7.8, 7.12, 7.13](http://www.deeplearningbook.org/contents/regularization.html)
 * Empirical Risk Minimization
     * Motivation
     * Formulation
