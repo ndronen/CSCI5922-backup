@@ -35,10 +35,10 @@ In this course, I will emphasize neural networks and automatic differentiation. 
 
 If you master this material, you will have a firm foundation on which you base subsequent work in deep learning, whether in academia or industry. In your programming assignments, you will use small networks, simple, small datasets, and your personal computer, because large networks and datasets can distract the beginner from focusing on principles, and because training small neural networks on small datasets can be done quickly on today’s general-purpose CPUs, thereby allowing you to iterate quickly. That said, I will not altogether ignore the two other elements of deep learning. I will devote some time to datasets for learning common tasks in various fields, such as natural language processing, computer vision, and speech recognition. I will also introduce you to the computer architecture of various deep learning hardware — from expensive, power-hungry devices for datacenter environments to small, low-power devices for the “edge”.
 
-## [Policies](https://ndronen.github.io/csci5922/policies.html)
+## [Policies](/policies.html)
 
-## [Assignments](https://ndronen.github.io/csci5922/assignments.html)
+## [Assignments](/assignments.html)
 
-## [Schedule](https://ndronen.github.io/csci5922/schedule.html)
+## [Schedule](/schedule.html)
 
-## [Resources](https://ndronen.github.io/csci5922/resources.html)
+## [Resources](/resources.html)
