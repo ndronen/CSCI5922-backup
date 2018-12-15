@@ -1,16 +1,16 @@
-* Instructor\
-    Dr. Nicholas Dronen\
-    Department of Computer Science\
-    Engineering Center South Tower 121\
-    dronen@colorado.edu\
+* Instructor
+    Dr. Nicholas Dronen
+    Department of Computer Science
+    Engineering Center South Tower 121
+    dronen@colorado.edu
     Office hours: Wednesday 3:20-4:20
-* Teaching Assistant\
-     Amruta Rajopadhye\
-     amruta.rajopadhye@colorado.edu\
-     Engineering Center - TBD\
+* Teaching Assistant
+     Amruta Rajopadhye
+     amruta.rajopadhye@colorado.edu
+     Engineering Center - TBD
      Office hours: TBD
-* Grader\
-    TBD\
+* Grader
+    TBD
     TBD@colorado.edu
 
 Deep Learning is a field of rapid change and, to date, some stunning accomplishments. It has changed the landscape of computer science and machine learning in the decade since [Geoff Hinton presented unsupervised, layer-wise pre-training](https://www.youtube.com/watch?v=AyzOUbkUf3M) to an eager audience at Google. The elements of deep learning as it exists today are
