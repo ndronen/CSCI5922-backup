@@ -39,7 +39,3 @@ permalink: schedule/background.html
             * Hardware
                 * GPUs
             * Limitations
-
-* Resources
-    * https://link.springer.com/article/10.1007/BF02478291
-    * http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf
