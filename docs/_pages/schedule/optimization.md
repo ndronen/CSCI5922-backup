@@ -5,6 +5,8 @@ permalink: schedule/optimization.html
 
 ## Optimization of Neural Networks (2 days)
 
+* Readings
+    * [_Deep Learning_ Chapter 8, Optimization for Training Deep Models, Sections 8.1-8.5](http://www.deeplearningbook.org/contents/optimization.html)
 * Initialization
   * Why is it important?
   * Initialization through the decades
