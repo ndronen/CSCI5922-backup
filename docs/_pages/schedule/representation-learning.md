@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/representation-learning.html
+permalink: schedule/representation-learning.html
 ---
 
 ## Representation Learning

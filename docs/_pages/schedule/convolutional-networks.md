@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/convolutional-networks.html
+permalink: schedule/convolutional-networks.html
 ---
 
 ## Convolutional networks (3 days)

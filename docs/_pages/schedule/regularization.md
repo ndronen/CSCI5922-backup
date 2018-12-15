@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/regularization.html
+permalink: schedule/regularization.html
 ---
 
 ## Regularization (2 days)

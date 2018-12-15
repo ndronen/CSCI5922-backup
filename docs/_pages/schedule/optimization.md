@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/optimization.html
+permalink: schedule/optimization.html
 ---
 
 ## Optimization of Neural Networks (2 days)

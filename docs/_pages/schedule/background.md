@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/background.html
+permalink: schedule/background.html
 ---
 
 ## Background (1 day)

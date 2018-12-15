@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/datasets-and-tasks.html
+permalink: schedule/datasets-and-tasks.html
 ---
 
 

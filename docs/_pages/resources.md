@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /resources.html
+permalink: resources.html
 ---
 
 # Resources

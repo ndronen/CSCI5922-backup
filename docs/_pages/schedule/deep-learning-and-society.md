@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/deep-learning-and-society.html
+permalink: schedule/deep-learning-and-society.html
 ---
 
 

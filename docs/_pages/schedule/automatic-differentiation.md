@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/automatic-differentiation.html
+permalink: schedule/automatic-differentiation.html
 ---
 
 ## Automatic Differentiation (1 day)

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/hardware.html
+permalink: schedule/hardware.html
 ---
 
 ## Hardware (2 days)

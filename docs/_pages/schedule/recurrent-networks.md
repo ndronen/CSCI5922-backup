@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule/recurrent-networks.html
+permalink: schedule/recurrent-networks.html
 ---
 
 ## Recurrent Networks (3 days)
