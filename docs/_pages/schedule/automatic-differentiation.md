@@ -33,8 +33,6 @@ permalink: schedule/automatic-differentiation.html
         * Pylearn2 (Theano)
         * Keras (First Theano, then Theano+TensorFlow, then *)
         * TF-slim (TensorFlow)
-* Readings
-* Homework
 * Resources
     * Andreas Griewank, [On Automatic Differentiation](http://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR89003.pdf)
     * Andreas Griewank, [On Automatic Differentiation and Algorithmic Linearization](http://www.scielo.br/pdf/pope/v34n3/0101-7438-pope-34-03-0621.pdf)
