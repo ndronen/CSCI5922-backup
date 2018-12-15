@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /schedule.html
+permalink: schedule.html
 ---
 
 # Schedule
