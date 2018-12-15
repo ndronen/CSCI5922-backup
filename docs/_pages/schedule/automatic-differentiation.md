@@ -4,15 +4,21 @@ permalink: schedule/automatic-differentiation.html
 ---
 
 ## Automatic Differentiation (1 day)
+
+* Readings
+    * [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
 * Method of Finite Difference
+    * Disadvantages
 * Automatic Differentiation
-    * Forward- and Reverse-Mode
-    * Source Transformation
-        * Advantage: complete representation of control flow, which makes optimization easy
-        * Disadvantage: may require implementation of elements of a compiler (verify with Kowarz)
-    * Operator overloading
-        * Advantage: simple to implement in any language with operator overloading
-        * Limitations: control flow information is reduced to the contents of the tape, potentially hindering optimization
+    * Forward-Mode
+    * Reverse-Mode
+    * Implementation strategies
+        * Source Transformation
+            * Advantages: complete representation of control flow, which makes optimization easy
+            * Disadvantages: may require implementation of elements of a compiler (verify with Kowarz)
+        * Operator overloading
+            * Advantage: simple to implement in any language with operator overloading
+            * Disadvantages: control flow information is reduced to the contents of the tape, potentially hindering optimization
 * Automatic Differentiation in Deep Learning
     * Declarative (Theano, TensorFlow)
     * Tape-based (PyTorch, Chainer)
