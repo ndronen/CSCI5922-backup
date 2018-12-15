@@ -16,7 +16,6 @@ permalink: schedule/background.html
             * Attended by Marvin Minsky, Claude Shannon, and others
         * [The Perceptron](https://en.wikipedia.org/wiki/Perceptron) (1957)
             * Invented by Frank Rosenblatt, a highschool classmate of Minsky
-            * The model and learning algorithm
     * 1960s
         * [Perceptron](https://archive.org/details/Perceptrons)
         * *A simple automatic derivative evaluation program*, Robert E. Wengert, 1964
