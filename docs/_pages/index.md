@@ -3,18 +3,17 @@ layout: default
 permalink: /index.html
 ---
 
-* Instructor  
+* **Instructor**
     Dr. Nicholas Dronen  
-    Department of Computer Science  
     Engineering Center South Tower 121  
     dronen@colorado.edu  
     Office hours: Wednesday 3:20-4:20  
-* Teaching Assistant  
-     Amruta Rajopadhye  
-     amruta.rajopadhye@colorado.edu  
-     Engineering Center - TBD  
-     Office hours: TBD  
-* Grader  
+* **Teaching Assistant**
+    Amruta Rajopadhye  
+    amruta.rajopadhye@colorado.edu  
+    Engineering Center - TBD  
+    Office hours: TBD  
+* **Grader**
     TBD  
     TBD@colorado.edu  
 
@@ -35,10 +34,10 @@ In this course, I will emphasize neural networks and automatic differentiation. 
 
 If you master this material, you will have a firm foundation on which you base subsequent work in deep learning, whether in academia or industry. In your programming assignments, you will use small networks, simple, small datasets, and your personal computer, because large networks and datasets can distract the beginner from focusing on principles, and because training small neural networks on small datasets can be done quickly on today’s general-purpose CPUs, thereby allowing you to iterate quickly. That said, I will not altogether ignore the two other elements of deep learning. I will devote some time to datasets for learning common tasks in various fields, such as natural language processing, computer vision, and speech recognition. I will also introduce you to the computer architecture of various deep learning hardware — from expensive, power-hungry devices for datacenter environments to small, low-power devices for the “edge”.
 
-## [Policies](/policies.html)
+## [Policies](CSCI5922/policies.html)
 
-## [Assignments](/assignments.html)
+## [Assignments](CSCI5922/assignments.html)
 
-## [Schedule](/schedule.html)
+## [Schedule](CSCI5922/schedule.html)
 
-## [Resources](/resources.html)
+## [Resources](CSCI5922/resources.html)
