@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: assignments.html
+permalink: /assignments.html
 ---
 
 # Assignments

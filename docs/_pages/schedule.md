@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: schedule.html
+permalink: /schedule.html
 ---
 
 # Schedule
@@ -14,36 +14,36 @@ Days with no lecture:
 
 [Public Google Calendar](https:/calendar.google.com/calendar/b/2?cid=Y3NjaTU5MjJzcHJpbmcyMDE5QGdtYWlsLmNvbQ) for this course.
 
-## [Background](schedule/background.html) (1 day - 1 cumulative)
+## [Background](/schedule/background.html) (1 day - 1 cumulative)
 
-## [Automatic Differentiation](schedule/automatic-differentiation.html) (2 days - 3 cumulative)
+## [Automatic Differentiation](/schedule/automatic-differentiation.html) (2 days - 3 cumulative)
 
-## [Feed-Forward Networks](schedule/feed-forward-networks.html) (3 days - 5 cumulative)
+## [Feed-Forward Networks](/schedule/feed-forward-networks.html) (3 days - 5 cumulative)
 
-## [Representation Learning](schedule/representation-learning.html) (1 days - 6 cumulative)
+## [Representation Learning](/schedule/representation-learning.html) (1 days - 6 cumulative)
 
-## [Optimization](schedule/optimization.html) (2 days - 8 cumulative)
+## [Optimization](/schedule/optimization.html) (2 days - 8 cumulative)
 
-## [Regularization](schedule/regularization.html) (2 days - 10 cumulative)
+## [Regularization](/schedule/regularization.html) (2 days - 10 cumulative)
 
-## [Recurrent Networks](schedule/recurrent-networks.html) (3 days - 13 cumulative)
+## [Recurrent Networks](/schedule/recurrent-networks.html) (3 days - 13 cumulative)
 
-## [Convolutional Networks](schedule/convolutional-networks.html) (3 days - 16 cumulative)
+## [Convolutional Networks](/schedule/convolutional-networks.html) (3 days - 16 cumulative)
 
-## [Unsupervised Learning](schedule/unsupervised-learning.html) (2 days - 18 cumulative)
+## [Unsupervised Learning](/schedule/unsupervised-learning.html) (2 days - 18 cumulative)
 
 ## Midterm - Mar. 20
 
 ## Spring Break - Mar. 25-29
 
-## [Datasets and Tasks](schedule/datasets-and-tasks.html) (2 days - 20 cumulative)
+## [Datasets and Tasks](/schedule/datasets-and-tasks.html) (2 days - 20 cumulative)
 
-## [Hardware](schedule/hardware.html) (2 days - 22 cumulative)
+## [Hardware](/schedule/hardware.html) (2 days - 22 cumulative)
 
-## [Software](schedule/software.html) (1 day - 23 cumulative)
+## [Software](/schedule/software.html) (1 day - 23 cumulative)
 
-## [Limitations and Trends](schedule/limitations-and-trends.html) (2 days - 25 cumulative)
+## [Limitations and Trends](/schedule/limitations-and-trends.html) (2 days - 25 cumulative)
 
-## [Deep Learning and Society](schedule/deep-learning-and-society.html) (2 days - 27 cumulative)
+## [Deep Learning and Society](/schedule/deep-learning-and-society.html) (2 days - 27 cumulative)
 
 ## Final Exam - May 4-8

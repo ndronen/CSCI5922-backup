@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: policies.html
+permalink: /policies.html
 ---
 
 # Grading
