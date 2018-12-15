@@ -4,6 +4,9 @@ permalink: schedule/convolutional-networks.html
 ---
 
 ## Convolutional networks (3 days)
+* Readings
+    * [_Deep Learning_ Chapter 9, Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html)
+
 * Simple Tasks and Datasets
     * Image Classification with RMNIST
 * Mammalian visual processing
