@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /schedule/convolutional-networks.html
+---
+
 ## Convolutional networks (3 days)
 * Simple Tasks and Datasets
     * Image Classification with RMNIST

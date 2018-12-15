@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /schedule/feed-forward-networks.html
+---
+
 ## Feed-Forward Networks (3 days)
 
 * Simple Tasks and Datasets

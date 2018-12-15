@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /schedule/automatic-differentiation.html
+---
+
 ## Automatic Differentiation (1 day)
 * Method of Finite Difference
 * Automatic Differentiation

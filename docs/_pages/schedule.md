@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /schedule.html
+---
+
 # Schedule
 
 With no holidays or other exceptions, there would be 32 class sessions. Days with no class are Martin Luther King, Jr. Day (Jan 21st) and Spring Break (March 25th-29th). The midterm exam will be March 20th. That leaves 28 days of lecture and discussion.

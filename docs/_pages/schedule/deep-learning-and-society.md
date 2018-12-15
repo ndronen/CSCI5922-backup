@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /schedule/deep-learning-and-society.html
+---
+
+
 ## Deep Learning and Society (2 days)
 * https://www.technologyreview.com/s/612434/one-of-the-fathers-of-ai-is-worried-about-its-future/
 * https://www.google.com/search?q=deep+learning+and+society

@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /schedule/regularization.html
+---
+
 ## Regularization (2 days)
 
 * Empirical Risk Minimization

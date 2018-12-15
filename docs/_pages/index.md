@@ -1,3 +1,8 @@
+---
+layout: home
+permalink: /index.html
+---
+
 * Instructor
     Dr. Nicholas Dronen
     Department of Computer Science

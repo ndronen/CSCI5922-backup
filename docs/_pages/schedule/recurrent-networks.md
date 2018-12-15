@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /schedule/recurrent-networks.html
+---
+
 ## Recurrent Networks (3 days)
 
 * Simple Tasks and Datasets

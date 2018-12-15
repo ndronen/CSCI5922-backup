@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /schedule/datasets-and-tasks.html
+---
+
+
 ## Datasets and Tasks (2 days)
 * Perceptual Tasks and Datasets
     * Vision

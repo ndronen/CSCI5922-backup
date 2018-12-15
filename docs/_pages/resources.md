@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /resources.html
+---
+
 # Resources
 
 * http://cs231n.github.io/python-numpy-tutorial/

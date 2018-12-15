@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /schedule/background.html
+---
+
 ## Background (1 day)
 
 * Biological Neural Networks

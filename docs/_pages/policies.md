@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /policies.html
+---
+
 # Grading
 
 Your final grade will be weighted as follows:

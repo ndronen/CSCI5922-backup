@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /assignments.html
+---
+
 # Assignments
 
 There will be approximately one assignment per week. The programming assignments must be implemented in Python using NumPy. They will vary in difficulty. In some cases, I will provide partially- or almost-working code that you will complete, because when trying to implement a new concept, it helps to be able to ignore incidental details. I might also provide unit tests to help guide you in your implementation. When I provide code or unit tests, you will get them from the course GitHub repository.
