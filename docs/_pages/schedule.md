@@ -12,7 +12,7 @@ Days with no lecture:
 * Midterm - Mar. 20th
 * Spring Break - Mar. 25th-29th
 
-[Public Google Calendar](https:/calendar.google.com/calendar/b/2?cid=Y3NjaTU5MjJzcHJpbmcyMDE5QGdtYWlsLmNvbQ) for this course.
+[Public Google Calendar](https://calendar.google.com/calendar/b/2?cid=Y3NjaTU5MjJzcHJpbmcyMDE5QGdtYWlsLmNvbQ) for this course.
 
 ## [Background](/schedule/background.html) (1 day - 1 cumulative)
 
