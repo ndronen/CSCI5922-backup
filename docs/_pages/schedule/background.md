@@ -17,8 +17,9 @@ permalink: schedule/background.html
         * [The Perceptron](https://en.wikipedia.org/wiki/Perceptron) (1957)
             * Invented by Frank Rosenblatt, a highschool classmate of Minsky
     * 1960s
-        * [Perceptron](https://archive.org/details/Perceptrons)
-        * *A simple automatic derivative evaluation program*, Robert E. Wengert, 1964
+        * _A simple automatic derivative evaluation program_, Robert E. Wengert, 1964
+        * [Perceptrons](https://archive.org/details/Perceptrons), Minsky and Papert, 1969
+            * Analysis of the Perceptron and its limitations, led to an ["AI Winter"](https://en.wikipedia.org/wiki/AI_winter#The_abandonment_of_connectionism_in_1969)
     * 1980s
         * Connectionist School
             * McClelland, Rumelhart, and the PDP Research Group
