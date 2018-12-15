@@ -5,6 +5,8 @@ permalink: schedule/regularization.html
 
 ## Regularization (2 days)
 
+* Readings
+    * [_Deep Learning_ Chapter 7, Regularizaion for Deep Learning, Sections 7.0-7.5, 7.8, 7.12, 7.13](http://www.deeplearningbook.org/contents/regularization.html)
 * Empirical Risk Minimization
     * Motivation
     * Formulation
@@ -30,5 +32,6 @@ permalink: schedule/regularization.html
             * Preventing overfitting/conspiracies
             * Implicit ensemble
         * Implementation details
+    * Adversarial training
 * Connection between optimization and regularization (specifically, data augmentation): the conclusion that "we obtain an unbiased estimator of the exact gradient of the generalization error by sampling a minibatch of examples {x_1, ..., x_m} with corresponding targets y_i from the data generating distribution p_data, and computing the gradient of the loss with respect to the parameters for that minibatch", **so long as examples are not reused** (emphasis added) ties the optimization of models trained with relatively small datasets (by today's standards) to data augmentation in that data augmentation can effectively increase the number of examples beyond the total number of unique examples necessary for the training to converge, thereby ensuring that examples are not reused, at least in some form. The kind of data augmentation I have in mind: crops, perturbations of hue, brightness, contrast (images); random dropout of words, random substitution of synonyms (text); dropout of activations; addition of Gaussian noise to activations.
 
