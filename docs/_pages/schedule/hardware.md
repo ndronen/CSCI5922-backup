@@ -6,6 +6,9 @@ permalink: schedule/hardware.html
 ## Hardware (2 days)
 * Readings
     * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039) Sections V-VII (p. 11-27)
+    * [Hardware for Machine Learning: Challenges and Opportunities](https://arxiv.org/abs/1612.07625)
+    * [A Survey of FPGA-Based Neural Network Inference Accelerator](https://arxiv.org/abs/1712.08934)
+    * [DNN Dataflow Choice Is Overrated](https://arxiv.org/abs/1809.04070)
     * Optional
         * [AI Accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
         * [Deep Learning on FPGAs: Past, Present, and Future](https://arxiv.org/abs/1602.04283)
