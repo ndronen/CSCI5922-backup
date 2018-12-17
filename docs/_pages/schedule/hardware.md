@@ -5,7 +5,7 @@ permalink: schedule/hardware.html
 
 ## Hardware (2 days)
 * Readings
-    * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://people.csail.mit.edu/emer/papers/2017.12.pieee.DNN_hardware_survey.pdf) Sections V-V (p. 2307-2325)
+    * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039) Sections V-VII (p. 11-27)
     * Optional
         * [AI Accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
         * [Deep Learning on FPGAs: Past, Present, and Future](https://arxiv.org/abs/1602.04283)
