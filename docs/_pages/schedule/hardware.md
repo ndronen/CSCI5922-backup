@@ -5,8 +5,10 @@ permalink: schedule/hardware.html
 
 ## Hardware (2 days)
 * Readings
-    * [AI Accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
-    * [Deep Learning on FPGAs: Past, Present, and Future](https://arxiv.org/abs/1602.04283)
+    * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://people.csail.mit.edu/emer/papers/2017.12.pieee.DNN_hardware_survey.pdf) Sections V-V (p. 2307-2325)
+    * Optional
+        * [AI Accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
+        * [Deep Learning on FPGAs: Past, Present, and Future](https://arxiv.org/abs/1602.04283)
 * Operational environments
     * Desktop
     * Data center
