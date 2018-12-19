@@ -3,9 +3,11 @@ layout: default
 permalink: schedule/background.html
 ---
 
-## Background (1 day)
+## Background 
 
 * Biological Neural Networks
+
+    
     
 * Artificial Neural Networks
     * 1940s 

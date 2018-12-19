@@ -14,7 +14,7 @@ Days with no lecture:
 
 [Public Google Calendar](https://calendar.google.com/calendar/b/2?cid=Y3NjaTU5MjJzcHJpbmcyMDE5QGdtYWlsLmNvbQ) for this course.
 
-## [Background](schedule/background.html) (1 day)
+## [Introduction](schedule/introduction.html) (1 day)
 
 ## [Automatic Differentiation](schedule/automatic-differentiation.html) (2 days)
 
