@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: schedule/background.html
+permalink: schedule/introduction.html
 ---
 
 ## Background 
