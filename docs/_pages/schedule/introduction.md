@@ -8,17 +8,17 @@ permalink: schedule/introduction.html
 ### Brief History of Neural Networks and Deep Learning
 
 * 1940s 
-    * *[A Logical Calculus of the ideas Imminent in Nervous Activity](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)*, McCulloch and Pitts, 1943
-    * *[The Organization of Behavior: A Neuropsychological Theory](http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf), Donald O. Hebb, 1949
+    * 1943: [*A Logical Calculus of the ideas Imminent in Nervous Activity*](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf), McCulloch and Pitts
+    * 1949: [*The Organization of Behavior: A Neuropsychological Theory*](http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf), Donald O. Hebb
 * 1950s
     * [Dartmouth Summer Research Project on Artificial Intelligence](https://medium.com/rla-academy/dartmouth-workshop-the-birthplace-of-ai-34c533afe992) (1956)
         * Attended by Marvin Minsky, Claude Shannon, and others
     * [The Perceptron](https://en.wikipedia.org/wiki/Perceptron) (1957)
         * Invented by Frank Rosenblatt, a highschool classmate of Minsky
 * 1960s
-    * _A simple automatic derivative evaluation program_, Robert E. Wengert, 1964
+    * [*A simple automatic derivative evaluation program*](https://dl.acm.org/citation.cfm?id=364791), Robert E. Wengert, 1964
         * Initial discovery of automatic differentiation, the generalization ofthe backpropagation algorithm
-    * [Perceptrons](https://archive.org/details/Perceptrons), Minsky and Papert, 1969
+    * [*Perceptrons*](https://archive.org/details/Perceptrons), Minsky and Papert, 1969
         * Analysis of the Perceptron and its limitations, led to an ["AI Winter"](https://en.wikipedia.org/wiki/AI_winter#The_abandonment_of_connectionism_in_1969)
 * 1980s
     * [Connectionist School](https://en.wikipedia.org/wiki/Connectionism)
