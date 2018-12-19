@@ -5,8 +5,9 @@ permalink: schedule/introduction.html
 
 ## Introduction
 
+[Lecture Notes](notes/introduction.pdf)
 
-### Brief History of Neural Networks and Deep Learning
+### History of Neural Networks and Deep Learning
 
 - 1940s 
     - 1943: [_A Logical Calculus of the ideas Imminent in Nervous Activity_](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf), McCulloch and Pitts
