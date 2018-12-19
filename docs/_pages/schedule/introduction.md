@@ -36,6 +36,6 @@ permalink: schedule/introduction.html
     * Current Deep Learning
         * Ordinary supervised learning with neural networks, large datasets, and special hardware
         * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
-            * Dataset: ImageNet
-            * Technical innovations: ReLU, DropOut
-            * Hardware: Graphics Processing Unit (GPU)
+            * Dataset: [ImageNet](http://image-net.org/about-overview)
+            * Technical innovations: [ReLU](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)), [DropOut](https://en.wikipedia.org/wiki/Dropout_(neural_networks))
+            * Hardware: [Graphics Processing Unit (GPU)](https://en.wikipedia.org/wiki/Graphics_processing_unit)
