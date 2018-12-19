@@ -5,6 +5,8 @@ permalink: schedule/introduction.html
 
 ## Introduction
 
+* Attended by Marvin Minsky, Claude Shannon, and others
+
 ### Brief History of Neural Networks and Deep Learning
 
 * 1940s 
@@ -12,7 +14,6 @@ permalink: schedule/introduction.html
     * 1949: [*The Organization of Behavior: A Neuropsychological Theory*](http://s-f-walker.org.uk/pubsebooks/pdfs/The_Organization_of_Behavior-Donald_O._Hebb.pdf), Donald O. Hebb
 * 1950s
     * 1956: [Dartmouth Summer Research Project on Artificial Intelligence](https://medium.com/rla-academy/dartmouth-workshop-the-birthplace-of-ai-34c533afe992)
-        * Attended by Marvin Minsky, Claude Shannon, and others
     * 1957: [The Perceptron](https://en.wikipedia.org/wiki/Perceptron)
         * Invented by Frank Rosenblatt, a highschool classmate of Minsky
 * 1960s
